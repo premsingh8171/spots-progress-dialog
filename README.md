@@ -3,6 +3,7 @@
 
 Android AlertDialog with moving spots progress indicator packed as android library.
 
+<img src="https://github.com/premsingh8171/spots-progress-dialog/blob/main/app/src/main/res/drawable/spots.gif" width="300" height="550" />
 
 ### Usage
 
