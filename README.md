@@ -3,7 +3,6 @@
 
 Android AlertDialog with moving spots progress indicator packed as android library.
 
-![Example Image1][1]
 
 ### Usage
 
