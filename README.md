@@ -19,7 +19,7 @@ repositories {
 ```
 dependencies {
 
-        implementation 'com.github.premsingh8171:spots-progress-dialog:Tag'
+        implementation 'com.github.premsingh8171:spots-progress-dialog:1.0'
 }
 ```
 
