@@ -1,0 +1,3 @@
+include ':spots-progress-dialog'
+include ':app'
+rootProject.name = "SpotsProgressDialog"
