@@ -10,6 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.premsinghdaksha.spots_progress_dialog.SpotsProgressDialog;
 
+
 public class MainActivity extends AppCompatActivity {
     private SpotsProgressDialog progressDialog;
     public Button sportsPrgDialog;

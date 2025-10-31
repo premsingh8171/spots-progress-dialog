@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.premsinghdaksha.spotsprogressdialog'
+    namespace "com.premsinghdaksha.spots_progress_dialog"
 
     compileSdk = 36
 
